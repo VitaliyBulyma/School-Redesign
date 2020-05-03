@@ -1660,8 +1660,9 @@ Version: 1.0
   }
   
   .page-banner__bg-image {
-    opacity: .33;
+    opacity: .45;
     background-size: cover;
+    background-position: center;
     position: absolute;
     top: 0;
     bottom: 0;
