@@ -6,3 +6,6 @@ When the project is complete, my intent to give this website as a gift to my sch
 
 # Original Layout
 ![Original Layout](./original.jpg)
+
+# Re-designed Layout
+![Re-designed Layout](./main.jpg)
