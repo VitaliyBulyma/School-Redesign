@@ -1,3 +1,6 @@
+This project is still in-progress...
+
+
 # School-Redesign
 
 ### Read case study [Here](http://vitaliybulyma.com/casestudy/) 
